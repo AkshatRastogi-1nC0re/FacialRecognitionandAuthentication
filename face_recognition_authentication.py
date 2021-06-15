@@ -36,7 +36,7 @@ def recognizeFace():
 
     final_names = []
     n = 0
-    while n <= 8:
+    while n <= 30:
         ret, frame = videoCapture.read()
 
         frame = cv2.resize(frame, (0, 0), fx=2, fy=1.6)
