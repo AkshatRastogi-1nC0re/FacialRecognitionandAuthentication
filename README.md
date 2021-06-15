@@ -10,3 +10,7 @@ Since as an output we only require single enitiy(ie name of the person), This sc
 If the person is not specified in the dataset, the script returns an error informing about not recognizing the user.
 
 It is recommemded to use proper lighting while using this script. 
+
+
+Created By: Akshat Rastogi
+Know more about me on [www.akshatrastogi.in](https://akshatrastogi.in/)
